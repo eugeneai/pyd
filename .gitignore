@@ -30,3 +30,4 @@ syntax: regexp
 ^examples/pyind/pyind3
 ^examples/pyind/build/
 ^examples/pyd_unittests/build/
+dist/*.egg
